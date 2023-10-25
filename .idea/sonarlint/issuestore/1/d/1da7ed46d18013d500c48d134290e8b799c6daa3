@@ -1,0 +1,14 @@
+
+O
+java:S1948"-Make "taskService" transient or serializable.(Ì’Œèùÿÿÿÿ8úâÓ¶1
+D
+java:S1905'"'Remove this unnecessary cast to "long".(ËñÿÂ8ÛîÊ¶1
+d
+java:S1126:"BReplace this if-then-else statement by a single method invocation.(Ğ´Ë½ÿÿÿÿÿ8¢§×¶1
+X	java:S125B"<This block of commented-out lines of code should be removed.(…µÜ†8İîÊ¶1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ş•Ë¶1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ß•Ë¶1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ß•Ë¶1

@@ -1,0 +1,31 @@
+
+T
+$src/main/webapp/includes/scripts.jsp,e/f/ef80e83930eb6c81e4a59efa6d4de165da996aff
+S
+#src/main/webapp/includes/styles.jsp,c/0/c07d5cb462f5ae2b34bc46968992182ffef53df6
+I
+src/main/webapp/index.jsp,8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded
+P
+ src/main/webapp/tasks/create.jsp,8/6/86d4dbce308a4da41b280858ba88e25748cc6d28
+P
+ src/main/webapp/tasks/update.jsp,a/9/a9fce5c0346cae58b286e61458043dbf6bfc8f63
+h
+8src/main/java/com/noreyni/gestiontache/HelloServlet.java,1/5/15e18d1b0a6a48ac5be1e6669c56243a8ab8329f
+Q
+!src/main/webapp/tasks/details.jsp,7/7/77c9b887f64dbbfac5552a4176e5626dbe2029f3
+O
+src/main/webapp/tasks/index.jsp,b/b/bbc92632b416ca7f79ee07587722be3459aa3c98
+k
+;src/main/java/com/noreyni/gestiontache/web/TaskServlet.java,1/d/1da7ed46d18013d500c48d134290e8b799c6daa3
+n
+>src/main/java/com/noreyni/gestiontache/util/HibernateUtil.java,b/0/b0fea6f995f7fd047ebe75c49fc2721855982880
+g
+7src/main/java/com/noreyni/gestiontache/entity/Task.java,2/2/22ef8163d07270eb5ddca1f17742512adc2d1c07
+o
+?src/main/java/com/noreyni/gestiontache/service/TaskService.java,4/0/405a5c1633f2de7bfbac2cebecf5c83b63033102
+g
+7src/main/java/com/noreyni/gestiontache/dao/TaskDAO.java,5/f/5ff566301be8c6360f2b205291124342a3c88eb0
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+P
+ src/main/webapp/includes/nav.jsp,0/3/033c1e8b1018bd899ec4808f6292a6019798127d
